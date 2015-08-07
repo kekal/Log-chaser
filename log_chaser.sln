@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log_chaser", "log_chaser\log_chaser.csproj", "{52fac9b2-150b-4c9c-8ae4-a3f8c8040c4d}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52FAC9B2-150B-4C9C-8AE4-A3F8C8040C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52FAC9B2-150B-4C9C-8AE4-A3F8C8040C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52FAC9B2-150B-4C9C-8AE4-A3F8C8040C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52FAC9B2-150B-4C9C-8AE4-A3F8C8040C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
